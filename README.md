@@ -1,9 +1,9 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Diego Camino</h1>
 <h3 align="center">A Tech Enthusiast Digital Nomad</h3>
 <!--
 **diegocaminor/diegocaminor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
