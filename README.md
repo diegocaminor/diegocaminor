@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegocaminor" alt="diegocaminor" /> </p>
 
+- 🔭 I'm a Software Engineer at [Herounit](https://herounit.io/)
+
 - 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/diegocaminor](https://github.com/diegocaminor)
