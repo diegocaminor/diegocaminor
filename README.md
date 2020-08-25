@@ -11,7 +11,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@DiegoCaminoR](https://medium.com/@DiegoCaminoR)
 
-- 💬 Ask me about **Mongo, Express, Vue and Express**
+- 💬 Ask me about **Mongo, Express, Vue and Node**
 
 - 📫 How to reach me **diego.camino.r@gmail.com**
 
