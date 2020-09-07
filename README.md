@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Camino</h1>
-<h3 align="center">A Tech Enthusiast Digital Nomad</h3>
+<h3 align="center">A Software Engineer Digital Nomad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegocaminor" alt="diegocaminor" /> </p>
 
