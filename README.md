@@ -3,7 +3,7 @@
 
 - 🔭 I'm a Software Engineer at [Herounit](https://herounit.io/)
 
-- 🌱 I’m currently learning **Blockchaing and Crypto**
+- 🌱 I’m currently learning **Blockchain and Crypto**
 
 - 👨‍💻 All of my projects are available at [https://github.com/diegocaminor](https://github.com/diegocaminor)
 
