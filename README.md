@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **diego.camino.r@gmail.com**
 
-- 🌎 My dream **Meet every and each country around the world**
+- 🌎 My dream **live as Digital Nomad**
 
 
 <h3 align="left">Languages and Tools:</h3>
