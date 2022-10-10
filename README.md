@@ -3,7 +3,7 @@
 
 - 🔭 I'm a Software Engineer at [Acklen Avenue](https://acklenavenue.com/)
 
-- 🌱 I’m currently learning **Blockchain and Crypto**
+- 🌱 I’m currently learning **Solidity** to become a BlockChain Developer 😎
 
 - 👨‍💻 All of my projects are available at [https://github.com/diegocaminor](https://github.com/diegocaminor)
 
