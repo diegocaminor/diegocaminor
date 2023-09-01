@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/diegocaminor](https://github.com/diegocaminor)
 
-- 📝 I regulary write articles on [https://medium.com/@DiegoCaminoR](https://medium.com/@DiegoCaminoR)
+- 📝 I regularly write articles on [https://medium.com/@DiegoCaminoR](https://medium.com/@DiegoCaminoR)
 
 - 💬 Ask me about **Mongo, Express, Vue and Node**
 
 - 📫 How to reach me **diego.camino.r@gmail.com**
 
-- 🌎 My dream **live as Digital Nomad**
+- 🌎 Nomad
 
 
 <h3 align="left">Languages and Tools:</h3>
