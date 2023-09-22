@@ -28,7 +28,7 @@
 <a href="https://medium.com/@diegocaminor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@diegocaminor" height="30" width="30" /></a>
 </p>
 <!--
-**diegocaminor/diegocaminor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**diegocaminor/diegocaminor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 ### Hi there 👋
 Here are some ideas to get you started:
 
