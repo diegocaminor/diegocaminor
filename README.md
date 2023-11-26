@@ -3,13 +3,13 @@
 
 - 🔭 I'm a Software Engineer at [Acklen Avenue](https://acklenavenue.com/)
 
-- 🌱 I’m currently learning **Solidity** to become a BlockChain Developer 😎
+- 🌱 I’m currently learning **Deep Learning** to become an AI Engineer 😎
 
 - 👨‍💻 All of my projects are available at [https://github.com/diegocaminor](https://github.com/diegocaminor)
 
 - 📝 I regularly write articles on [https://medium.com/@DiegoCaminoR](https://medium.com/@DiegoCaminoR)
 
-- 💬 Ask me about **Mongo, Express, Vue and Node**
+- 💬 Ask me about **Mongo, Express, Vue, React, Node and Web Development in general**
 
 - 📫 How to reach me **diego.camino.r@gmail.com**
 
