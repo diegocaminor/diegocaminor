@@ -3,7 +3,7 @@
 
 - 🔭 I'm a Software Engineer at [Acklen Avenue](https://acklenavenue.com/)
 
-- 🌱 I’m currently learning **Deep Learning** to become an AI Engineer 😎
+- 🌱 I’m currently learning **Machine Learning** to become an AI Engineer 😎
 
 - 👨‍💻 All of my projects are available at [https://github.com/diegocaminor](https://github.com/diegocaminor)
 
